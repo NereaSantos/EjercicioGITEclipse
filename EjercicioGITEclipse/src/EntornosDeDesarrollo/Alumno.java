@@ -6,4 +6,12 @@ public class Alumno {
 	private String apellido;
 	private String dni;
 	
+	Alumno(String n, String a, String d){
+		
+		this.nombre = n;
+		this.apellido = a;
+		this.dni = d;
+		
+	}
+	
 }
