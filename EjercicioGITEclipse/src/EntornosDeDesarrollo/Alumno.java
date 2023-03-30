@@ -19,6 +19,9 @@ public class Alumno {
 		return "Alumno [nombre=" + nombre + ", apellido=" + apellido + ", dni=" + dni + "]";
 	}
 	
-	
+	Alumno(){
+		
+		
+	}
 	
 }
